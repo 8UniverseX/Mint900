@@ -15,7 +15,7 @@ background-position-y: 50%
 background-repeat-x
 background-repeat-y
 background-size: cover
-  display flex
+display flex
 flex-direction column
 font-family Impact-Fantasy;
 font-size: 12px
@@ -25,7 +25,7 @@ margin-bottom 8px
 margin-left 8px
 margin-right 8px
 margin-top 8px
-width
+width 712
 }
 .error {
   text-align: left;
