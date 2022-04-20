@@ -1,5 +1,5 @@
 body {
-  font-family: Sans-serif;
+  font-family: Impact-Fantasy;
   font-size: 12px;
   display: flex;
   flex-direction: column;
@@ -8,7 +8,7 @@ body {
   background attachment: fixed
   background-clip: border-box
   background-color: rgba(0, 0, 0, 0)
-  background-image: url("https://ipfs.io/ipfs/QmSptivReLLpWJ541DViYvgEnQRVNfr2PzNd2DFbUf9Yk5");
+  background-image: url("https://ipfs.io/ipfs/QmSptivReLLpWJ541DViYvgEnQRVNfr2PzNd2DFbUf9Yk5")no-repeat center fixed;
  background-origin padding-box
 background-position-x: 50%
 background-position-y: 50%
@@ -17,9 +17,9 @@ background-repeat-y
 background-size: cover
   display flex
 flex-direction column
-font-family impact-fantasy
+font-family Impact-Fantasy;
 font-size 12px
-height 400px
+height 1093px
 justify-content center
 margin-bottom 8px
 margin-left 8px
