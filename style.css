@@ -44,6 +44,72 @@ top auto
 visibility visible
 width 964px
 z-index auto
+ direction ltr
+font-family sans-serif
+font-size 12px
+font-stretch 100%
+font-style normal
+font-variant-caps normal
+font-variant-east-asian normal
+font-variant-ligatures normal
+font-variant-numeric normal
+font-weight 400
+letter-spacing normal
+line-height normal
+tab-size 8
+text-align start
+text-align-last auto
+text-decoration-color rgb(255, 227, 48)
+text-decoration-line none
+text-decoration-style solid
+text-decoration-thickness auto
+text-indent 0px
+text-overflow clip
+text-shadow none
+text-size-adjust auto
+text-transform none
+vertical-align baseline
+white-space normal
+word-break normal
+word-spacing 0px
+ color rgb(255, 227, 48)
+background-attachment fixed
+background-clip border-box
+background-color rgba(0, 0, 0, 0)
+background-image url(https://ipfs.io/ipfs/QmSptivReLLpWJ541DViYvgEnQRVNfr2PzNd2DFbUf9Yk5%22)
+url(/images/cover+updated+mint.png) body
+background-origin padding-box
+background-position-x 50%
+background-position-y 50%
+background-repeat-x
+no-repeat body
+background-repeat-y
+no-repeat body
+background-size cover
+border-bottom-color rgb(255, 227, 48)
+border-bottom-style none
+border-bottom-width 0px
+border-image-outset 0
+border-image-repeat stretch
+border-image-slice 100%
+border-image-source none
+border-image-width 1
+border-left-color rgb(255, 227, 48)
+border-left-style none
+border-left-width 0px
+border-right-color rgb(255, 227, 48)
+border-right-style none
+border-right-width 0px
+border-top-color rgb(255, 227, 48)
+border-top-style none
+border-top-width 0px
+box-shadow none
+cursor auto
+outline-color rgb(255, 227, 48)
+outline-offset 0px
+outline-style none
+outline-width 0px
+-webkit-border-image none
 }
 .error {
   text-align: left;
