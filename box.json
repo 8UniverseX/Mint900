@@ -1,5 +1,5 @@
 {
-  "infura": "767750972a99441ea5d276ed16d7eef0",
-  "network": "rinkeby",
-  "contract": "0x074f0C3212d361EAEA619AF333578ab73F2af00B"
+  "infura": "08c341c85bc94e6faf46da3867b76bcc",
+  "network": "main",
+  "contract": "0x85a5f8EDbBf58278aC1ceB5B1C2101fB3ca90433"
 }
