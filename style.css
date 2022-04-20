@@ -5,7 +5,15 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background attachment: fixed
+  background-clip: border-box
+  background-color: rgba(0, 0, 0, 0)
   background-image: url("https://ipfs.io/ipfs/QmSptivReLLpWJ541DViYvgEnQRVNfr2PzNd2DFbUf9Yk5");
+  background-position-x 50%
+background-position-y 50%
+background-repeat-x
+background-repeat-y
+background-size: cover
   color: white;
   height: 100%;
 }
