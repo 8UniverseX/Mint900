@@ -7,6 +7,8 @@ body {
   align-items: center;
   background: rgb(131,58,180);
   background-image: url("https://ipfs.io/ipfs/QmSptivReLLpWJ541DViYvgEnQRVNfr2PzNd2DFbUf9Yk5");
+  background-size: cover;
+  background-repeat: no-repeat;
   color: white;
   height: 100%;
 }
