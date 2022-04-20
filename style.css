@@ -5,10 +5,10 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background attachment: fixed
+background attachment: fixed;
   background-clip: border-box
   background-color: rgba(0, 0, 0, 0)
- background-image: url("https://ipfs.io/ipfs/QmSptivReLLpWJ541DViYvgEnQRVNfr2PzNd2DFbUf9Yk5");
+ background-image: url("https://ipfs.io/ipfs/QmSptivReLLpWJ541DViYvgEnQRVNfr2PzNd2DFbUf9Yk5")
  background-origin: padding-box
 background-position-x: 50%
 background-position-y: 50%
@@ -17,15 +17,15 @@ background-repeat-y: no-repeat
 background-size: cover
 display flex
 flex-direction column
-font-family Impact-Fantasy;
+font-family: Impact-Fantasy;
 font-size: 12px
-height: 400px
+height 1080px
 justify-content: center
 margin-bottom 8px
 margin-left 8px
 margin-right 8px
 margin-top 8px
-width 712
+width 1920px
 }
 .error {
   text-align: left;
