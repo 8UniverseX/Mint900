@@ -1,6 +1,6 @@
 body {
   font-family: Sans-serif;
-  font-size: 20px;
+  font-size: 22px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,7 +11,7 @@ body {
   background-repeat: no-repeat;
   color: white;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: red;
+  -webkit-text-stroke-color: black;
   height: 100%;
 }
 .error {
