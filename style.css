@@ -10,6 +10,8 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: red;
   height: 100%;
 }
 .error {
